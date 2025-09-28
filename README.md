@@ -53,3 +53,12 @@ The project was organized as a Kaggle competition, where teams submitted predict
 3. Open the notebook:
    ```bash
    jupyter notebook hyperparamaniacs.ipynb
+
+   ## Kaggle Competition
+## Kaggle Competition & Notebook
+
+This project was part of the **[UMR-ML-2025 Hackathon 1](https://www.kaggle.com/competitions/umr-ml-2025-hackathon-1)** on Kaggle.  
+You can view and run the notebook here:  
+[Hackathon1 — Predicting Bicycle Traffic](https://www.kaggle.com/code/eliftpskl/hackathon1-predicting-bicycle-traffic?scriptVersionId=257109564)  
+
+
