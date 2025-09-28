@@ -34,6 +34,7 @@ The project was organized as a Kaggle competition, where teams submitted predict
 ---
 
 ## Repository Structure
+
 .
 ├── hyperparamaniacs.ipynb   # Jupyter notebook with code & results
 ├── README.md                # Project description
@@ -46,7 +47,11 @@ The project was organized as a Kaggle competition, where teams submitted predict
    ```bash
    git clone https://gitlab.com/Eliftpskl/ml-hackathon-bicycle-traffic.git
    cd ml-hackathon-bicycle-traffic
+2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
+3. Open the notebook:
+   ```bash
    jupyter notebook hyperparamaniacs.ipynb
 
 
