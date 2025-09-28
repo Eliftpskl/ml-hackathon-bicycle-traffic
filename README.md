@@ -34,13 +34,13 @@ The project was organized as a Kaggle competition, where teams submitted predict
 ---
 
 ## Repository Structure
-
+```
 .
 ├── hyperparamaniacs.ipynb   # Jupyter notebook with code & results
 ├── README.md                # Project description
 ├── requirements.txt         # Dependencies
 └── .gitignore               # Ignore unnecessary files
-
+```
 ## How to Run
 
 1. Clone the repository:
