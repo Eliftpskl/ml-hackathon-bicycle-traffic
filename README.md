@@ -41,16 +41,17 @@ The project was organized as a Kaggle competition, where teams submitted predict
 └── .gitignore               # Ignore unnecessary files
 
 ## How to Run
+
 1. Clone the repository:
    ```bash
    git clone https://gitlab.com/Eliftpskl/ml-hackathon-bicycle-traffic.git
    cd ml-hackathon-bicycle-traffic
-2. Install dependencies:
+   pip install -r requirements.txt
+   jupyter notebook hyperparamaniacs.ipynb
 
-  pip install -r requirements.txt
 
-3. Open the notebook:
+  
 
-  jupyter notebook hyperparamaniacs.ipynb
+
 
    
