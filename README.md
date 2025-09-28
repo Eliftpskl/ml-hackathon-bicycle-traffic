@@ -53,10 +53,3 @@ The project was organized as a Kaggle competition, where teams submitted predict
 3. Open the notebook:
    ```bash
    jupyter notebook hyperparamaniacs.ipynb
-
-
-  
-
-
-
-   
